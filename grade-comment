@@ -1,0 +1,14 @@
+Joshua Feng
+
+Assignment:  Number Class
+Grade:  check/check+  (See Course Expectations for interpretation)
+
+1 – What is up with all that stuff in your output that looks like this…The number 129 is _[1mnot even_[m….your output looks pretty ugly and often just uninterpretable.
+
+ 2 – You clearly show that you know how good class structure and how to use classes in Objective-C.
+
+3 – Don’t use the conditional operator.  It is note for its ability to obfuscate code.
+
+4 – Good algorithms for each method.  You wrote very clean and efficient code for each method.
+
+In all a good job with few extras and some issues (like the confusing character output).
